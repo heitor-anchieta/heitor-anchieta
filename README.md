@@ -2,4 +2,4 @@
 - 👀 I’m interested in python
 - 🌱 I’m currently learning react, python, js
 - 📫 How to reach me heitor.fernandes@etec.sp.gov.br
-- 😄 Pronouns: he/himw
+- 😄 Pronouns: he/him
